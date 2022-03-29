@@ -44,7 +44,30 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
    [Video on Packets & Frames](https://www.youtube.com/watch?v=P5jC8D5zndc) - very indepth explanation of packets frames and encapsulation **
    
    [Playlist of Networking videos](https://youtu.be/As6g6IXcVa4) - For Comptia net+ cert has good information and is explained well, skip stuff about configuring an enterprise network unless you find it interesting
+  
+  ### How the web works
+  
+  ### Common Services
+  
+  
+  ### Python Scripting (Intro)
+  [Pwntools documentation](https://docs.pwntools.com/en/stable/) - PWNtools is a python library that makes exploit development easier will be referenced later dont't worry about it on your first pass of this document
+  
+  [Python documentation](https://docs.python.org/3/)
+  
+  [EdaBit (Website to learn coding languages)](https://edabit.com/challenges/python3) - Good for learning python fast edabit + python docs should get you set up with enough knowledge of python in an hour or two
+  
+  
   ### Windows Command Line
    [cheatsheet for windows cmd](http://www.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) - cheatsheet on windows commands
    
    [Windows Fundamentals THM Module](https://tryhackme.com/module/windows-fundamentals) - gives basics on using windows cmd line
+
+  # Universal CyberSec tools 
+  vmware
+  
+  nmap
+  
+  exploit db
+  
+  
