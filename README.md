@@ -1,6 +1,4 @@
 # CyberSecurity-Study-Resources
-Links I've used to study
-
 __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resource becomes unavailable or is not free)
 # Paid / Free #
   Free content is just as good sometimes better as paid content. You pay for CONVIENCE or a certification 
