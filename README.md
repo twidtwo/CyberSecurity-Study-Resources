@@ -5,7 +5,7 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
 # Paid / Free
   Free content is just as good sometimes better as paid content. You pay for CONVIENCE or a certification 
   # Free platforms
-    [Tryhackme(https://www.tryhackme.com/)] - Beginner friendly variety of content 
+    [Tryhackme](https://www.tryhackme.com/)<https://www.tryhackme.com/> - Beginner friendly variety of content 
     [Hacktricks Online Book(https://book.hacktricks.xyz/)] - Good book of notes
     **Most free content is in blog posts and youtube videos it doesn't belong in this section other links are under specific topics**
     
