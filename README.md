@@ -5,20 +5,20 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
 # Paid / Free
   Free content is just as good sometimes better as paid content. You pay for CONVIENCE or a certification 
   # Free platforms
-    [Tryhackme](https://www.tryhackme.com/)<https://www.tryhackme.com/> - Beginner friendly variety of content 
-    [Hacktricks Online Book(https://book.hacktricks.xyz/)] - Good book of notes
+    [Tryhackme](https://tryhackme.com/) - Beginner friendly variety of content 
+    [Hacktricks Online Book](https//:book.hacktricks.xyz/) - Good book of notes
     **Most free content is in blog posts and youtube videos it doesn't belong in this section other links are under specific topics**
     
   # Paid Platforms
     [[Tryhackme](https://www.tryhackme.com)] $10 a month - Beginner friendly
     [HackTheBox(https://www.hackthebox.com)] $10 + a month - Better hacking challenges then tryhackme but less beginner friendly
     [PentesterLab(https://pentesterlab.com/)] $20 a month - Video walkthroughs more structured learning less googling to fill the gaps Specific badges for topics
- 
 # Background 
   The general order of things to learn before security is 
     Unix command line -> Basic Networking -> How the web works    -> Windows command line
                                              Common services         Powershell (get-help & invoke-webrequest is enough for now)
                                              Basics of python
+                                             
   [Presecurity THM Module(https://tryhackme.com/path/outline/presecurity)] <- Covers all of these topics 
   # Unix command line resources
     http://www.ee.surrey.ac.uk/Teaching/Unix/ 
