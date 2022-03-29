@@ -46,10 +46,25 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
    [Playlist of Networking videos](https://youtu.be/As6g6IXcVa4) - For Comptia net+ cert has good information and is explained well, skip stuff about configuring an enterprise network unless you find it interesting
   
   ### How the web works
+  [THM How the web works](https://tryhackme.com/room/webfundamentals) 
+  
+  [Video on websites](https://www.youtube.com/watch?v=vcRmKtL4o_4&ab_channel=TechWorldwithNana)
   
   ### Common Services
+  **REMEBER TO READ MANUAL ENTRIES FOR COMMANDS USING "_man COMMAND_"**
+  **YOU SHOULD KNOW HOW TO USE : **
+    
+    ssh
+    
+    ftp
+    
+    curl
+    
+    rdp (xfreerdp on linux)
+  #### SSH / SCP
+  [ssh Explained in depth](https://wiki.archlinux.org/title/OpenSSH)
   
-  
+  [scp Explained in depth](https://wiki.archlinux.org/title/SCP_and_SFTP#General_Usage)
   ### Python Scripting (Intro)
   [Pwntools documentation](https://docs.pwntools.com/en/stable/) - PWNtools is a python library that makes exploit development easier will be referenced later dont't worry about it on your first pass of this document
   
