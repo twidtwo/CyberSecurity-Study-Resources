@@ -82,5 +82,7 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
   nmap
   
   exploit db
-  
+
+  wireshark
+
 *CREATION IN PROGRESS MORE RESOURCES WILL BE ADDED OVER TIME*
