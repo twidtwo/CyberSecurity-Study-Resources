@@ -52,13 +52,13 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
   **REMEBER TO READ MANUAL ENTRIES FOR COMMANDS USING "_man COMMAND_"**
   **YOU SHOULD KNOW HOW TO USE : **
     
-    ssh
+    ssh - remote access to a machine NO GUI also has SFTP  and SCP which allow for secure ftp functions and secure file copying
     
-    ftp
+    ftp - server that hosts files and allows for upload (sometimes) and download of files
     
-    curl
+    curl (Windows equivalent is Invoke-webRequest) - command line tool for communicating with webpages 
     
-    rdp (xfreerdp on linux)
+    rdp (xfreerdp on linux) - remote access to a machine through GUI
   #### SSH / SCP
   [ssh Explained in depth](https://wiki.archlinux.org/title/OpenSSH)
   
@@ -81,8 +81,9 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
   
   nmap
   
-  exploit db
-
   wireshark
 
+  ISACs - Information Sharing and Analaysis Center are public platforms that have databases of cybersecurity threats *NOT all of these are techniqually ISACs but same idea*
+    [Mitre ATT&CK](https://attack.mitre.org/matrices/enterprise/) - Database of attack types
+    [Exploit DB](https://www.exploit-db.com/)
 *CREATION IN PROGRESS MORE RESOURCES WILL BE ADDED OVER TIME*
