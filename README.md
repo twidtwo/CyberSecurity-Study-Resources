@@ -77,13 +77,30 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
    [Windows Fundamentals THM Module](https://tryhackme.com/module/windows-fundamentals) - gives basics on using windows cmd line
 
   # Universal CyberSec tools 
-  vmware
+  ### [Vmware Player](https://docs.vmware.com/en/VMware-Workstation-Player/index.html) - type 2 hypervisor free
+  #### ISO IMAGE SOURCES
+  [Windows <11 developer version](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - [Win 11](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines) 
   
-  nmap
+  Linux has too many distros iso files for each hypervisor will usually be posted on that distro's webpage
   
-  wireshark
+  ### [nmap wiki](https://nmap.org/) - port scanner modular with nse scripting engine used by both blue and red teams, [nessus](https://www.tenable.com/products/nessus) is more in depth better in general for blue teaming
+  [quick nmap tutorial](https://youtu.be/IoIsTrKrl-0) 
+  
+  ### [wireshark](https://www.wireshark.org/) - packet capturing tool
+   
+   [quick wireshark tutorial](https://youtu.be/TkCSr30UojM)
+   
+   [wireshark practice THM](https://tryhackme.com/room/overpass) - overpass is a good indication of whether you can use wireshark or not and is one of the best designed rooms on THM, [overpass sequel](https://tryhackme.com/room/overpass2hacked) , [overpass triquel cause its that good](https://tryhackme.com/room/overpass3hosting)
+   
 
-  ISACs - Information Sharing and Analaysis Center are public platforms that have databases of cybersecurity threats *NOT all of these are techniqually ISACs but same idea*
-    [Mitre ATT&CK](https://attack.mitre.org/matrices/enterprise/) - Database of attack types
-    [Exploit DB](https://www.exploit-db.com/)
+  ### ISACs - Information Sharing and Analaysis Center are public platforms that have databases of cybersecurity threats *NOT all of these are techniqually ISACs but same idea*
+    
+   [Mitre ATT&CK](https://attack.mitre.org/matrices/enterprise/) - Database of attack types
+    
+   [Exploit DB](https://www.exploit-db.com/) - database of exploits
+   
+   [NIST](https://www.nist.gov/cybersecurity) - [NVD (NIST exploit db)](https://nvd.nist.gov/)
+   
+   [SHODAN](https://www.shodan.io/) 
+
 *CREATION IN PROGRESS MORE RESOURCES WILL BE ADDED OVER TIME*
