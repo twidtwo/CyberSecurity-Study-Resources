@@ -102,5 +102,48 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
    [NIST](https://www.nist.gov/cybersecurity) - [NVD (NIST exploit db)](https://nvd.nist.gov/)
    
    [SHODAN](https://www.shodan.io/) 
-
+  # REMEMBER if you don't know what something is look it up before continuing reading
+  # Basic Cyber Security Hygiene 
+    Checksum - A checksum is often posted on an offical release page for a software. It is the output of a hashing algortihm when the file is hashed. If the file you downloaded is the file you meant to then the checksums will match what the release page says.
+    
+        MD5sum FILE to generate a md5 checksum of FILE on linux 
+    
+        certutil -hashfile FILE ALGORITHM to generate a ALGORITHM checksum of FILE on windows
+    
+    Wifi - Use WPA2 or WPA3  others are insecure
+    
+    Links - 
+    
+      Don't click suspicious links, at least check them on virusTotal. 
+      
+      It is safer to avoid clicking links in messages or emails and go to the webpage manually instead.
+    
+    Web browsing - 
+      
+      Configure for Least functionality needed to be usuable. 
+      
+      Disable pop-ups put exceptions for sites that rely on pop-ups. 
+      
+      Disable js if you can get away with it.
+      
+      Configure your browser to prevent third party cookies. 
+      
+      Use strong different varying passwords for accounts. 
+ 
+  # Starting point
+    CIA Triad - Cornerstones of infoSec infrastructure has three parts a breach of any of these parts is bad 
+      
+      Confidentiality - Information hasn't been exposed to unauthorized people 
+      
+      Integrity - Information has not been modified or altered without proper authorization
+      
+      Availability - Information is able to be stored, accessed, or protected at all times
+      
+    Teams - The main three diverging paths in cybersecurity are 
+      
+      Offensive - hacking to find vulnerabilties in technology
+      
+      Defensive - Cybersecurity guard and network administrator responsible for keeping data secure and company/organization protected as well as stop threats as they happen
+      Incident Response - Cybersecurity Detective and police responsible for backtracing what happened during an incidient or responding to an incidient as it happens 
+      
 *CREATION IN PROGRESS MORE RESOURCES WILL BE ADDED OVER TIME*
