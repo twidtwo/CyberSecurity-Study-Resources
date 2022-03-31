@@ -144,6 +144,7 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
       Offensive - hacking to find vulnerabilties in technology
       
       Defensive - Cybersecurity guard and network administrator responsible for keeping data secure and company/organization protected as well as stop threats as they happen
+      
       Incident Response - Cybersecurity Detective and police responsible for backtracing what happened during an incidient or responding to an incidient as it happens 
       
 *CREATION IN PROGRESS MORE RESOURCES WILL BE ADDED OVER TIME*
