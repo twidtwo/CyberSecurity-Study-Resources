@@ -11,3 +11,6 @@ Defensive security and network management go hand in hand. Though most tools are
  
 # BUT IM A GOOD GUY !!!
 You will also need to download a [kali](https://www.kali.org/docs/virtualization/install-vmware-guest-vm/) or [parrot security edition](https://www.parrotsec.org/download/) iso. These are special distros of linux that come pre loaded with tons of hacking tools. You will need to simulate being an attacker sometimes. If you cannot run two virtual machines at once. I would recomend running linux natively or setting up a dual boot (preferably with a local drive to keep performance up). 
+
+# Order to learn 
+Tools
