@@ -43,3 +43,5 @@ You will also need to download a [kali](https://www.kali.org/docs/virtualization
 
 
 **Offensive basics (metasploit, nmap, john the ripper / hashcat, and linpeas.sh / winpeas.exe )** -
+
+/*more coming soon */
