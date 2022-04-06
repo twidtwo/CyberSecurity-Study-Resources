@@ -147,4 +147,13 @@ __ALL LINKS IN THE TEXT ARE TO FREE RESOURCES__ (Please add an issue if a resour
       
       Incident Response - Cybersecurity Detective and police responsible for backtracing what happened during an incidient or responding to an incidient as it happens 
       
+  # Pick your path
+  At this point you might know what you are interested in if not I would recomend starting with Offensive if you don't have programing experience. If you know some programing (taking or have taken AP comp sci / alternate exprience) then I would recomend trying Defensive. Forensics is a hard starting point in my opinion but if that is what you want to do then obviously start there. 
+      
+   [Offsenive (hacking)](./offensive/offensive.md)
+      
+   [Defensive (guarding)](./defensive/defensive.md)
+      
+   [Forensics (detective)](./forensics/forensics.md)
+    
 *CREATION IN PROGRESS MORE RESOURCES WILL BE ADDED OVER TIME*
